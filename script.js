@@ -1,7 +1,7 @@
 const addBox = document.querySelector(".add-box")
 const popupBox = document.querySelector(".popup-box")
 
-const months =['jan' ,'feb' , 'mar', 'apr','may','jun','jul','aug','sep','oct','nov','dec']
+const months =['Jan' , 'Feb' , 'Mar' , 'Apr' , 'May' , 'Jun' , 'Jul' , 'Aug' , 'Sep' , 'Oct' , 'Nov' , 'Dec']
 
 const closeBox = popupBox.querySelector("header i")
 const titleTag = popupBox.querySelector("input")
